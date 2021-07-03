@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1625055442 source:c:\users\chuchi\desktop\patu\tp4linkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625354010 c:\users\chuchi\desktop\patu\tp4linkedlist\linkedlist.h
+
+1625353875 source:c:\users\chuchi\desktop\patu\tp4linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"alumnos.h"
+
+1625353858 source:c:\users\chuchi\desktop\patu\tp4linkedlist\alumnos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumnos.h"
+
+1625353830 c:\users\chuchi\desktop\patu\tp4linkedlist\alumnos.h
+	"LinkedList.h"
+
+1625354009 source:c:\users\chuchi\desktop\tp4\tp4linkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625354010 c:\users\chuchi\desktop\tp4\tp4linkedlist\linkedlist.h
+
+1625355441 source:c:\users\chuchi\desktop\tp4\tp4linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"alumnos.h"
+
+1625353830 c:\users\chuchi\desktop\tp4\tp4linkedlist\alumnos.h
+	"LinkedList.h"
+
+1625353858 source:c:\users\chuchi\desktop\tp4\tp4linkedlist\alumnos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumnos.h"
+
